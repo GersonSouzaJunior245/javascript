@@ -1,0 +1,9 @@
+body
+{
+    text-align: center;
+    font-family: 'Calibri';
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(87,253,45,1) 100%);
+    color: aliceblue;
+
+}
